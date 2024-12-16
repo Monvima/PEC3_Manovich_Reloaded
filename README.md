@@ -8,7 +8,7 @@ Autor: Montse Vidal Martins
 
 Fecha: 09/12/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Imagen cabezera](https://github.com/Monvima/PEC3-images/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg) 
 
 
 
@@ -26,7 +26,9 @@ En construcción.
 
 ## Re-descubriendo la hibridacion con Notion: Ordena tu vida como quieras
 
-Pendiente Imagen bloques en Notion
+
+![bloques en Notion](https://github.com/Monvima/PEC3-images/blob/main/Tipos-de-Bloques-en-Notion)
+
 
 
 Vivimos en una época donde lo digital lo cambia todo, especialmente la forma en que manejamos y organizamos información. En este contexto aparece Notion, una herramienta que me ha sorprendido desde el primer día que la utilicé por su capacidad de reunir en un solo espacio todo lo que antes requería varias aplicaciones. Puedes escribir documentos, crear bases de datos, gestionar tareas y mucho más, todo con bloques modulares que se adaptan a tus necesidades. ¿El resultado? Una experiencia organizada, personalizada y muy intuitiva.
@@ -35,7 +37,11 @@ Ahora bien, Notion no solo es una app de productividad. Si nos ponemos las "gafa
 
 En este apartado, te contaré cómo Notion refleja esa hibridación y cómo lo he usado en mi día a día para organizar un máster en IA e Innovación, donde fue clave para gestionar bases de datos de aplicaciones, listados de recursos y más. También me ha servido para organizar diferentes tareas de proyectos que tengo en curso y como gestionar tareas, como hacer una lista de regalos de Navidad o incluso organizar mis asignaturas en la UOC de forma clara y práctica.
 
-Pendiente Imagen Notion 1
+
+
+
+![Imagen Notion 1](https://github.com/Monvima/PEC3-images/blob/main/Notion%201.JPG)
+
 
 
 **<u>Hibridación de medios en Notion.</u>**
@@ -43,7 +49,13 @@ Pendiente Imagen Notion 1
 
 Notion es la herramienta perfecta para mezclar elementos que antes estaban separados en mundos diferentes. Por ejemplo, mientras hacía mi máster en IA e Innovación, usé Notion para crear una base de datos donde registraba todas las aplicaciones interesantes que descubría: ¿Era gratuita o de pago? ¿Para qué tipo de uso estaba diseñada? Organizaba la información con etiquetas, enlaces, descripciones... Todo en un solo lugar.
 
-Pendiente Imagen Notion 3
+
+
+
+![Imagen Notion 3](https://github.com/Monvima/PEC3-images/blob/main/Notion%203.JPG)
+
+
+
 
 Manovich habla de hibridación como la mezcla de técnicas de medios distintos. En Notion, esto se ve en:
 
@@ -68,10 +80,12 @@ Desde el punto de vista tecnológico, Notion actúa como un "metamedio", integra
 
 ### Referencias y Bibliografía
 
-- Manovich, L. (2013). *El software toma el mando*. Barcelona: Editorial UOC.
+- Manovich, L. (2013). *El software toma el mando*. Barcelona
 - Notion. (n.d.). *Official Website*. Retrieved from [https://www.notion.so](https://www.notion.so)
 - "Notion: The All-in-One Workspace." (n.d.). Retrieved from [https://www.notion.so/product](https://www.notion.so/product)
 - "Bloques de Notion: Cómo Funcionan (Guía de 0 a 100)." Retrieved from [https://www.productiviza.com/bloques-de-notion-como-funcionan/](https://www.productiviza.com/bloques-de-notion-como-funcionan/)
+- Foto de Clark Tibbs en Unsplash
+      
 - Contenidos formativos UOC.
 
 
