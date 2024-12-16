@@ -26,7 +26,8 @@ En construcción.
 
 ## Re-descubriendo la hibridacion con Notion: Ordena tu vida como quieras
 
-![Ejemplo de base de datos en Notion](ruta_de_la_imagen_1 "Tipos de bloques en Notion")
+Pendiente Imagen bloques en Notion
+
 
 Vivimos en una época donde lo digital lo cambia todo, especialmente la forma en que manejamos y organizamos información. En este contexto aparece Notion, una herramienta que me ha sorprendido desde el primer día que la utilicé por su capacidad de reunir en un solo espacio todo lo que antes requería varias aplicaciones. Puedes escribir documentos, crear bases de datos, gestionar tareas y mucho más, todo con bloques modulares que se adaptan a tus necesidades. ¿El resultado? Una experiencia organizada, personalizada y muy intuitiva.
 
@@ -34,7 +35,7 @@ Ahora bien, Notion no solo es una app de productividad. Si nos ponemos las "gafa
 
 En este apartado, te contaré cómo Notion refleja esa hibridación y cómo lo he usado en mi día a día para organizar un máster en IA e Innovación, donde fue clave para gestionar bases de datos de aplicaciones, listados de recursos y más. También me ha servido para organizar diferentes tareas de proyectos que tengo en curso y como gestionar tareas, como hacer una lista de regalos de Navidad o incluso organizar mis asignaturas en la UOC de forma clara y práctica.
 
-![Ejemplo de base de datos en Notion](ruta_de_la_imagen_1 "Notion 1")
+Pendiente Imagen Notion 1
 
 
 **<u>Hibridación de medios en Notion.</u>**
@@ -42,7 +43,7 @@ En este apartado, te contaré cómo Notion refleja esa hibridación y cómo lo h
 
 Notion es la herramienta perfecta para mezclar elementos que antes estaban separados en mundos diferentes. Por ejemplo, mientras hacía mi máster en IA e Innovación, usé Notion para crear una base de datos donde registraba todas las aplicaciones interesantes que descubría: ¿Era gratuita o de pago? ¿Para qué tipo de uso estaba diseñada? Organizaba la información con etiquetas, enlaces, descripciones... Todo en un solo lugar.
 
-![Ejemplo de base de datos en Notion](ruta_de_la_imagen_1 "Notion 3")
+Pendiente Imagen Notion 3
 
 Manovich habla de hibridación como la mezcla de técnicas de medios distintos. En Notion, esto se ve en:
 
