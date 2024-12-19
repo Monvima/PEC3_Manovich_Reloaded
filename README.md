@@ -22,8 +22,8 @@ __Fecha:__ 09/12/2024
    - [🖥️ Hibridación de medios en Notion](#🖥️-hibridación-de-medios-en-notion)
    - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
    - [🌍 Impacto cultural y tecnológico](#🌍-impacto-cultural-y-tecnológico)
-4. [📚 Referencias y Bibliografía](#📚-referencias-y-bibliografía)
-
+4. [ ✳️ Conclusiones](# ✳️-conclusiones)
+5. [📚 Referencias y Bibliografía](#📚-referencias-y-bibliografía)
 
 
 
@@ -109,6 +109,13 @@ Esta __navegación adaptativa__ es un ejemplo claro de cómo Notion __redefine l
 Desde el __punto de vista cultural__, Notion transforma al usuario en un creador activo de sistemas personalizados de conocimiento. Ya no dependemos de herramientas rígidas y fragmentadas, ahora podemos diseñar espacios que se adaptan a nuestra forma de pensar y trabajar. Esto empodera al usuario y refleja la evolución hacia una __cultura digital más participativa.__
 __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando y ampliando las capacidades de medios previos. Es una plataforma que no solo combina funcionalidades, sino que las __redefine__ al permitir interacciones y conexiones inéditas entre datos. Como afirma Manovich, esta es la esencia de la hibridación: __combinar lo mejor de varios medios para crear algo completamente nuevo__.
 
+
+------------------------------------------------------------
+# ✳️ Conclusiones
+
+Tanto Notion como WondaVR ejemplifican el concepto de __hibridación__ al superar la simple coexistencia de medios __(multimedia)__ y convertirse en herramientas que reconfiguran nuestra interacción con el conocimiento.
+Notion, al integrar bloques modulares que permiten personalización y adaptabilidad, redefine la gestión de la información y se posiciona como un __metamedio__ creando sistemas únicos y flexibles. Por su parte, WondaVR fusiona narrativa, interactividad y simulación inmersiva para ofrecer experiencias educativas transformadoras, como los recorridos virtuales o los entrenamientos simulados.
+Ambas herramientas reflejan la __remezclabilidad profunda__ que Manovich considera esencial en la era del software. Así, Notion y WondaVR no solo amplían lo que podemos hacer con el software, sino que transforman nuestra relación con la tecnología y la cultura.
 
 
 ------------------------------------------------------------
