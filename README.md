@@ -27,6 +27,8 @@ __Fecha:__ 09/12/2024
 
 
 
+
+-----------------------------------------------------------------
 <a name="item1"></a>
 # 📖 Planteamiento: ¿Que es la hibirdación según Manovich?
 
