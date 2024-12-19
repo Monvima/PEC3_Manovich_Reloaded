@@ -116,7 +116,6 @@ __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando 
 # 📚 Referencias y Bibliografía
 
      
-- Contenidos formativos UOC.
 - Manovich, L. (2013). El software toma el mando. Barcelona: Editorial UOC.
 - Notion. (n.d.). Official Website. Retrieved from [https://www.notion.so)
 - "Notion: The All-in-One Workspace." (n.d.). Retrieved from [https://www.notion.so/product)
