@@ -13,16 +13,16 @@ __Fecha:__ 09/12/2024
 
 # 📚 Índice
 
-1. [📖 Planteamiento](#📖-Planteamiento)
-2. [📱 Re-descubriendo la hibridación con WondaVR](#📱-Re-descubriendo-la-hibridación-con-WondaVR)
-   - [🎥 Hibridación de medios en WondaVR](#🎥-Hibridación-de-medios-en-WondaVR)
-   - [✨ Nuevas formas de representación y navegación](#✨-Nuevas-formas-de-representación-y-navegación)
-   - [🌍 Impacto cultural y tecnológico](#🌍-Impacto-cultural-y-tecnológico)
-3. [🎧 Re-descubriendo la hibridación con Notion](#🎧-Re-descubriendo-la-hibridación-con-Notion)
-   - [🖥️ Hibridación de medios en Notion](#🖥️-Hibridación-de-medios-en-Notion)
-   - [📊 Nuevas formas de representación y navegación](#📊-Nuevas-formas-de-representación-y-navegación)
-   - [💡 Impacto cultural y tecnológico](#💡-Impacto-cultural-y-tecnológico)
-4. [📚 Referencias y Bibliografía](#📚-Referencias-y-Bibliografía)
+1. [📖 Planteamiento](#📖-planteamiento)
+2. [📱 Re-descubriendo la hibridación con WondaVR](#📱-re-descubriendo-la-hibridación-con-wondavr)
+   - [🎥 Hibridación de medios en WondaVR](#🎥-hibridación-de-medios-en-wondavr)
+   - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
+   - [🌍 Impacto cultural y tecnológico](#🌍-impacto-cultural-y-tecnológico)
+3. [🎧 Re-descubriendo la hibridación con Notion](#🎧-re-descubriendo-la-hibridación-con-notion)
+   - [🖥️ Hibridación de medios en Notion](#🖥️-hibridación-de-medios-en-notion)
+   - [📊 Nuevas formas de representación y navegación](#📊-nuevas-formas-de-representación-y-navegación)
+   - [💡 Impacto cultural y tecnológico](#💡-impacto-cultural-y-tecnológico)
+4. [📚 Referencias y Bibliografía](#📚-referencias-y-bibliografía)
 
 
 
