@@ -1,4 +1,4 @@
-### PEC3: Visionando el futuro con las gafas de Manovich 
+## PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -9,6 +9,7 @@ __Autor__: Montse Vidal Martins
 __Fecha:__ 09/12/2024
 
 ![Imagen cabezera](https://github.com/Monvima/PEC3-images/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg) 
+https://github.com/Monvima/PEC3-images/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg
 
 
 
