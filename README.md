@@ -74,7 +74,7 @@ En este sentido, WondaVR cumple perfectamente con esta definición, llevando la 
 
 
 
-## 🎧 Re-descubriendo la hibridación con Notion
+# 🎧 Re-descubriendo la hibridación con Notion
 
 
 
