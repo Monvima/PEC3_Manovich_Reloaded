@@ -28,7 +28,7 @@ __Fecha:__ 09/12/2024
 
 
 
-# 📖 Planteamiento
+## 📖 Planteamiento
 
 
 Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
@@ -39,7 +39,7 @@ Por otro lado, __WondaVR__ lleva la hibridación a un nivel inmersivo al combina
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
 
-# 📱 Re-descubriendo la hibridación con WondaVR
+## 📱 Re-descubriendo la hibridación con WondaVR
 
 
 ![Image wonda](https://github.com/Monvima/PEC3-images/blob/main/wonda.jfif)
@@ -47,14 +47,14 @@ Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede gene
 Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no solo se trata de una plataforma de realidad virtual, sino que es una herramienta que __redefine cómo aprendemos y experimentamos el conocimiento__. Manovich habla de la hibridación como una __combinación de medios que da lugar a "nuevas especies"__ y WondaVR ejemplifica este concepto al fusionar técnicas cinematográficas, interactividad y educación inmersiva.
 
 -----------------------------------------------------------------
-## 🎥 Hibridación de medios en WondaVR
+### 🎥 Hibridación de medios en WondaVR
 
 
 
 En WondaVR, los medios tradicionales como el cine y la narrativa visual se integran con __nuevas tecnologías__, permitiendo al usuario interactuar con historias en un entorno tridimensional. Por ejemplo, durante mi exploración, pude explorar el Lower East Side de Nueva York a través de un recorrido virtual narrado, diseñado para que los estudiantes comprendieran los desafíos sociales y urbanos del área. Esta experiencia inmersiva no solo transmitía información, sino que transforma interacción con el contenido en algo completamente significativo. Es una estética visual innovadora que no existiría sin la __remezclabilidad profunda del software.__
 
 --------------------------------------------------------------------------------------------
-## ✨ Nuevas formas de representación y navegación
+### ✨ Nuevas formas de representación y navegación
 
 
 
@@ -64,7 +64,7 @@ Con WondaVR, la información no está confinada a páginas o diapositivas, sino 
 ![Imagen wonda2.JPG](https://github.com/Monvima/PEC3-images/blob/main/wonda2.JPG)
 
 ------------------------------------------------------------
-## 🌍 Impacto cultural y tecnológico
+### 🌍 Impacto cultural y tecnológico
 
 
 
