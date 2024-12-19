@@ -28,7 +28,7 @@ __Fecha:__ 09/12/2024
 
 
 
-# 📖 Planteamiento {#planteamiento}
+# 📖 Planteamiento
 
 
 Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
@@ -85,7 +85,7 @@ Cuando descubrí Notion, rápidamente se convirtió en una herramienta esencial 
 
 
 ---------------------------------------------------------------------
-## 🖥️ Hibridación de medios en Notion
+### 🖥️ Hibridación de medios en Notion
 
 
 Notion no se limita a combinar funcionalidades, sino que las reinventa al ofrecer una estructura basada en __bloques modulares__. Estos bloques actúan como "capas" que pueden contener texto, tablas, imágenes o bases de datos y que se pueden reorganizar libremente, creando un espacio de trabajo fluido y personalizado. Por ejemplo, en uno de mis proyectos de máster, utilicé Notion para construir una __base de datos__ de aplicaciones de IA, donde clasificaba cada herramienta según su tipo de uso, precio y funcionalidad. Este enfoque me permitió tener una __visión clara y adaptativa de la información__, algo que sería difícil de lograr con herramientas tradicionales.
@@ -96,7 +96,7 @@ Otra característica clave es la capacidad de crear __bases de datos enriquecida
 ![Imagen Notion 3](https://github.com/Monvima/PEC3-images/blob/main/Notion%203.JPG)
 
 ---------------------------------------------------------------------------------------------
-## 📊 Nuevas formas de representación y navegación
+### 📊 Nuevas formas de representación y navegación
 
 
 Lo que realmente diferencia a Notion es cómo permite __navegar y representar información__ de formas que antes no eran posibles. La estructura jerárquica de páginas y subpáginas crea un entorno de exploración intuitivo, ideal para proyectos complejos. Por ejemplo, en la UOC organicé mis asignaturas en páginas individuales, cada una con secciones para notas, tareas pendientes y recursos clave. Esta organización me permitió acceder rápidamente a la información relevante sin perderme en documentos dispersos.
@@ -105,7 +105,7 @@ Esta __navegación adaptativa__ es un ejemplo claro de cómo Notion __redefine l
 
 
 ------------------------------------------------------------
-## 💡 Impacto cultural y tecnológico
+### 💡 Impacto cultural y tecnológico
 
 Desde el __punto de vista cultural__, Notion transforma al usuario en un creador activo de sistemas personalizados de conocimiento. Ya no dependemos de herramientas rígidas y fragmentadas, ahora podemos diseñar espacios que se adaptan a nuestra forma de pensar y trabajar. Esto empodera al usuario y refleja la evolución hacia una __cultura digital más participativa.__
 __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando y ampliando las capacidades de medios previos. Es una plataforma que no solo combina funcionalidades, sino que las __redefine__ al permitir interacciones y conexiones inéditas entre datos. Como afirma Manovich, esta es la esencia de la hibridación: __combinar lo mejor de varios medios para crear algo completamente nuevo__.
