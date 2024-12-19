@@ -15,16 +15,16 @@ __Fecha:__ 09/12/2024
 
 
 1. [📖 Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
-2. [🎥 Re-descubriendo la hibridación con WondaVR](#🎥-re-descubriendo-la-hibridación-con-wondavr)
-   - [🕶️ Hibridación de medios en WondaVR](#🕶️-hibridación-de-medios-en-wondavr)
-   - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
-   - [🌍 Impacto cultural y tecnológico](#🌍-impacto-cultural-y-tecnológico)
-3. [📃 Re-descubriendo la hibridación con Notion](#📃-re-descubriendo-la-hibridación-con-notion)
-   - [🖥️ Hibridación de medios en Notion](#🖥️-hibridación-de-medios-en-notion)
-   - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
-   - [🌍 Impacto cultural y tecnológico](#🌍-impacto-cultural-y-tecnológico)
-4. [ ✳️ Conclusiones](#✳️-conclusiones)
-5. [📚 Referencias y Bibliografía](#📚-referencias-y-bibliografía)
+2. [🎥 Re-descubriendo la hibridación con WondaVR](#item2)
+   - [🕶️ Hibridación de medios en WondaVR](#item3)
+   - [✨ Nuevas formas de representación y navegación](#item4)
+   - [🌍 Impacto cultural y tecnológico](#item5)
+3. [📃 Re-descubriendo la hibridación con Notion](#item6)
+   - [🖥️ Hibridación de medios en Notion](#item7)
+   - [✨ Nuevas formas de representación y navegación](#item8)
+   - [🌍 Impacto cultural y tecnológico](#item9)
+4. [ ✳️ Conclusiones](#item10)
+5. [📚 Referencias y Bibliografía](#item11)
 
 
 <a name="item1"></a>
@@ -38,7 +38,7 @@ En el caso de __Notion__, la "remezclabilidad" se manifiesta en su capacidad par
 Por otro lado, __WondaVR__ lleva la __hibridación__ a un nivel inmersivo al combinar técnicas cinematográficas, interactividad de videojuegos y educación en realidad virtual. La plataforma no solo presenta contenido, sino que permite vivirlo, creando experiencias educativas que fusionan __medios tradicionales y virtuales__.
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
-
+<a name="item2"></a>
 # 🎥 Re-descubriendo la hibridación con WondaVR
 
 
@@ -47,6 +47,7 @@ Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede gene
 Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no solo se trata de una plataforma de realidad virtual, sino que es una herramienta que __redefine cómo aprendemos y experimentamos el conocimiento__. Manovich habla de la hibridación como una __combinación de medios que da lugar a "nuevas especies"__ y WondaVR ejemplifica este concepto al fusionar técnicas cinematográficas, interactividad y educación inmersiva.
 
 -----------------------------------------------------------------
+<a name="item3"></a>
 ### 🕶️ Hibridación de medios en WondaVR
 
 
@@ -54,9 +55,9 @@ Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no s
 En WondaVR, los medios tradicionales como el cine y la narrativa visual se integran con __nuevas tecnologías__, permitiendo al usuario interactuar con historias en un entorno tridimensional. Por ejemplo, durante mi exploración, pude explorar el Lower East Side de Nueva York a través de un recorrido virtual narrado, diseñado para que los estudiantes comprendieran los desafíos sociales y urbanos del área. Esta experiencia inmersiva no solo transmitía información, sino que transforma interacción con el contenido en algo completamente significativo. Es una estética visual innovadora que no existiría sin la __remezclabilidad profunda del software.__
 
 --------------------------------------------------------------------------------------------
+[Subir](#top)
+<a name="item4"></a>
 ### ✨ Nuevas formas de representación y navegación
-
-
 
 
 Con WondaVR, la información no está confinada a páginas o diapositivas, sino que se presenta como un espacio que el usuario puede explorar libremente. Esto __transforma la interacción con el contenido__, haciendo que el aprendizaje sea adaptativo y no lineal. Un caso fascinante es cómo la empresa Northern Trains utilizó WondaVR para para organizar recorridos inmersivos para sesiones de capacitación en seguridad para sus aproximadamente 1.000 conductores de trenes, que son teletransportados a 20 situaciones de riesgo diferentes que han sido documentadas en fotos hechas a 360 grados. Esta combinación de simulación e interactividad es un reflejo claro de las __estrategias de hibridación__ mencionadas por Manovich.
@@ -64,8 +65,8 @@ Con WondaVR, la información no está confinada a páginas o diapositivas, sino 
 ![Imagen wonda2.JPG](https://github.com/Monvima/PEC3-images/blob/main/wonda2.JPG)
 
 ------------------------------------------------------------
+<a name="item5"></a>
 ### 🌍 Impacto cultural y tecnológico
-
 
 
 Desde el __punto de vista cultural__, Wonda anima al usuario a ser un explorador activo, redefiniendo cómo aprendemos y cómo experimentamos los medios. Desde el __punto de vista tecnológico__, actúa como un metamedio, combinando lo mejor del cine, los videojuegos y las simulaciones educativas en una experiencia única. 
@@ -73,7 +74,8 @@ Manovich enfatiza que la hibridación no es solo mezclar medios, sino permitir n
 En este sentido, WondaVR cumple perfectamente con esta definición, llevando la educación a dimensiones que antes eran inimaginables. La __hibridación aquí no es una suma mecánica__, sino la creación de algo completamente __nuevo y transformador__.
 
 
-
+[Subir](#top)
+<a name="item6"></a>
 # 📃 Re-descubriendo la hibridación con Notion
 
 
@@ -85,6 +87,7 @@ Cuando descubrí Notion, rápidamente se convirtió en una herramienta esencial 
 
 
 ---------------------------------------------------------------------
+<a name="item7"></a>
 ### 🖥️ Hibridación de medios en Notion
 
 
@@ -96,6 +99,7 @@ Otra característica clave es la capacidad de crear __bases de datos enriquecida
 ![Imagen Notion 3](https://github.com/Monvima/PEC3-images/blob/main/Notion%203.JPG)
 
 ---------------------------------------------------------------------------------------------
+<a name="item8"></a>
 ### ✨ Nuevas formas de representación y navegación
 
 
@@ -105,6 +109,7 @@ Esta __navegación adaptativa__ es un ejemplo claro de cómo Notion __redefine l
 
 
 ------------------------------------------------------------
+<a name="item9"></a>
 ### 🌍 Impacto cultural y tecnológico
 
 Desde el __punto de vista cultural__, Notion transforma al usuario en un creador activo de sistemas personalizados de conocimiento. Ya no dependemos de herramientas rígidas y fragmentadas, ahora podemos diseñar espacios que se adaptan a nuestra forma de pensar y trabajar. Esto empodera al usuario y refleja la evolución hacia una __cultura digital más participativa.__
@@ -112,6 +117,8 @@ __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando 
 
 
 ------------------------------------------------------------
+[Subir](#top)
+<a name="item10"></a>
 # ✳️ Conclusiones
 
 Tanto Notion como WondaVR ejemplifican el concepto de __hibridación__ al superar la simple coexistencia de medios __(multimedia)__ y convertirse en herramientas que reconfiguran nuestra interacción con el conocimiento.
@@ -120,6 +127,8 @@ Ambas herramientas reflejan la __remezclabilidad profunda__ que Manovich conside
 
 
 ------------------------------------------------------------
+[Subir](#top)
+<a name="item11"></a>
 # 📚 Referencias y Bibliografía
 
      
