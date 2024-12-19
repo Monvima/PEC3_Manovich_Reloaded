@@ -14,17 +14,17 @@ __Fecha:__ 09/12/2024
 # 📚 Índice
 
 
-[📖 Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
-[🎥 Re-descubriendo la hibridación con WondaVR](#item2)
+1 [📖 Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
+2 [🎥 Re-descubriendo la hibridación con WondaVR](#item2)
    - [🕶️ Hibridación de medios en WondaVR](#item3)
    - [✨ Nuevas formas de representación y navegación](#item4)
    - [🌍 Impacto cultural y tecnológico](#item5)
-[📃 Re-descubriendo la hibridación con Notion](#item6)
+3 [📃 Re-descubriendo la hibridación con Notion](#item6)
    - [🖥️ Hibridación de medios en Notion](#item7)
    - [✨ Nuevas formas de representación y navegación](#item8)
    - [🌍 Impacto cultural y tecnológico](#item9)
-[ ✳️ Conclusiones](#item10)
-[📚 Referencias y Bibliografía](#item11)
+4 [✳️ Conclusiones](#item10)
+5 [📚 Referencias y Bibliografía](#item11)
 
 
 <a name="item1"></a>
