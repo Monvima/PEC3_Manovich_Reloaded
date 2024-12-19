@@ -15,7 +15,7 @@ __Fecha:__ 09/12/2024
 # Planteamiento
 
 
-Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos metamedios. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
+Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
 
 En el caso de __Notion__, la "remezclabilidad" se manifiesta en su capacidad para unificar procesadores de texto, bases de datos y gestores de tareas en una estructura modular y personalizable. Esta herramienta se convierte en un metamedio que redefine la organización de la información y la interacción con los datos.
 
@@ -23,7 +23,7 @@ Por otro lado, __WondaVR__ lleva la hibridación a un nivel inmersivo al combina
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
 
-# Re-descubriendo la hibridacion con WondaVR
+# Re-descubriendo la hibridación con WondaVR
 
 
 ![Image wonda](https://github.com/Monvima/PEC3-images/blob/main/wonda.jfif)
@@ -58,7 +58,7 @@ En este sentido, WondaVR cumple perfectamente con esta definición, llevando la 
 
 
 
-# Re-descubriendo la hibridacion con Notion: 
+# Re-descubriendo la hibridación con Notion: 
 
 
 
