@@ -10,10 +10,11 @@ __Fecha:__ 09/12/2024
 
 ![Imagen cabezera](https://github.com/Monvima/PEC3-images/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg) 
 
-
+<a name="top"></a>
 # 📚 Índice
 
-1. [📖 Planteamiento](#📖-planteamiento)
+
+1. [📖 Planteamiento: ¿Qué es la hibridación según Manovich?](#item1)
 2. [🎥 Re-descubriendo la hibridación con WondaVR](#🎥-re-descubriendo-la-hibridación-con-wondavr)
    - [🕶️ Hibridación de medios en WondaVR](#🕶️-hibridación-de-medios-en-wondavr)
    - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
@@ -22,12 +23,12 @@ __Fecha:__ 09/12/2024
    - [🖥️ Hibridación de medios en Notion](#🖥️-hibridación-de-medios-en-notion)
    - [✨ Nuevas formas de representación y navegación](#✨-nuevas-formas-de-representación-y-navegación)
    - [🌍 Impacto cultural y tecnológico](#🌍-impacto-cultural-y-tecnológico)
-4. [ ✳️ Conclusiones](# ✳️-conclusiones)
+4. [ ✳️ Conclusiones](#✳️-conclusiones)
 5. [📚 Referencias y Bibliografía](#📚-referencias-y-bibliografía)
 
 
-
-# 📖 Planteamiento
+<a name="item1"></a>
+# 📖 Planteamiento: ¿Que es la hibirdación según Manovich?
 
 
 Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
