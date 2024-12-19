@@ -55,7 +55,7 @@ Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no s
 En WondaVR, los medios tradicionales como el cine y la narrativa visual se integran con __nuevas tecnologías__, permitiendo al usuario interactuar con historias en un entorno tridimensional. Por ejemplo, durante mi exploración, pude explorar el Lower East Side de Nueva York a través de un recorrido virtual narrado, diseñado para que los estudiantes comprendieran los desafíos sociales y urbanos del área. Esta experiencia inmersiva no solo transmitía información, sino que transforma interacción con el contenido en algo completamente significativo. Es una estética visual innovadora que no existiría sin la __remezclabilidad profunda del software.__
 
 --------------------------------------------------------------------------------------------
-[Siguiente](#top)
+
 <a name="item4"></a>
 ### ✨ Nuevas formas de representación y navegación
 
@@ -74,7 +74,7 @@ Manovich enfatiza que la hibridación no es solo mezclar medios, sino permitir n
 En este sentido, WondaVR cumple perfectamente con esta definición, llevando la educación a dimensiones que antes eran inimaginables. La __hibridación aquí no es una suma mecánica__, sino la creación de algo completamente __nuevo y transformador__.
 
 
-[Subir](#top)
+
 <a name="item6"></a>
 # 📃 Re-descubriendo la hibridación con Notion
 
@@ -117,7 +117,7 @@ __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando 
 
 
 ------------------------------------------------------------
-[Subir](#top)
+
 <a name="item10"></a>
 # ✳️ Conclusiones
 
@@ -127,7 +127,7 @@ Ambas herramientas reflejan la __remezclabilidad profunda__ que Manovich conside
 
 
 ------------------------------------------------------------
-[Subir](#top)
+
 <a name="item11"></a>
 # 📚 Referencias y Bibliografía
 
