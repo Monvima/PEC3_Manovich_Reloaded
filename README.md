@@ -11,8 +11,22 @@ __Fecha:__ 09/12/2024
 ![Imagen cabezera](https://github.com/Monvima/PEC3-images/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg) 
 
 
+# 📚 Índice
 
-# Planteamiento
+1. [📖 Planteamiento](#planteamiento)
+2. [📱 Re-descubriendo la hibridación con WondaVR](#re-descubriendo-la-hibridación-con-wondavr)
+   - [🎥 Hibridación de medios en WondaVR](#hibridación-de-medios-en-wondavr)
+   - [✨ Nuevas formas de representación y navegación](#nuevas-formas-de-representación-y-navegación)
+   - [🌍 Impacto cultural y tecnológico](#impacto-cultural-y-tecnológico)
+3. [🎧 Re-descubriendo la hibridación con Notion](#re-descubriendo-la-hibridación-con-notion)
+   - [🖥️ Hibridación de medios en Notion](#hibridación-de-medios-en-notion)
+   - [📊 Nuevas formas de representación y navegación](#nuevas-formas-de-representación-y-navegación)
+   - [💡 Impacto cultural y tecnológico](#impacto-cultural-y-tecnológico)
+4. [📚 Referencias y Bibliografía](#referencias-y-bibliografía)
+
+
+
+# 📖 Planteamiento
 
 
 Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
@@ -23,7 +37,7 @@ Por otro lado, __WondaVR__ lleva la hibridación a un nivel inmersivo al combina
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
 
-# Re-descubriendo la hibridación con WondaVR
+# 📱 Re-descubriendo la hibridación con WondaVR
 
 
 ![Image wonda](https://github.com/Monvima/PEC3-images/blob/main/wonda.jfif)
@@ -31,14 +45,14 @@ Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede gene
 Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no solo se trata de una plataforma de realidad virtual, sino que es una herramienta que __redefine cómo aprendemos y experimentamos el conocimiento__. Manovich habla de la hibridación como una __combinación de medios que da lugar a "nuevas especies"__ y WondaVR ejemplifica este concepto al fusionar técnicas cinematográficas, interactividad y educación inmersiva.
 
 -----------------------------------------------------------------
-:movie_camera:**Hibridación de medios en WondaVR**:dark_sunglasses:
+## 🎥 Hibridación de medios en WondaVR
 
 
 
 En WondaVR, los medios tradicionales como el cine y la narrativa visual se integran con __nuevas tecnologías__, permitiendo al usuario interactuar con historias en un entorno tridimensional. Por ejemplo, durante mi exploración, pude explorar el Lower East Side de Nueva York a través de un recorrido virtual narrado, diseñado para que los estudiantes comprendieran los desafíos sociales y urbanos del área. Esta experiencia inmersiva no solo transmitía información, sino que transforma interacción con el contenido en algo completamente significativo. Es una estética visual innovadora que no existiría sin la __remezclabilidad profunda del software.__
 
 --------------------------------------------------------------------------------------------
-:globe_with_meridians:**Nuevas formas de representación y navegación**:globe_with_meridians:
+## ✨ Nuevas formas de representación y navegación
 
 
 
@@ -48,7 +62,7 @@ Con WondaVR, la información no está confinada a páginas o diapositivas, sino 
 ![Imagen wonda2.JPG](https://github.com/Monvima/PEC3-images/blob/main/wonda2.JPG)
 
 ------------------------------------------------------------
-:earth_americas:**Impacto cultural y tecnológico**:computer:
+## 🌍 Impacto cultural y tecnológico
 
 
 
@@ -58,7 +72,7 @@ En este sentido, WondaVR cumple perfectamente con esta definición, llevando la 
 
 
 
-# Re-descubriendo la hibridación con Notion: 
+# 🎧 Re-descubriendo la hibridación con Notion
 
 
 
@@ -69,7 +83,7 @@ Cuando descubrí Notion, rápidamente se convirtió en una herramienta esencial 
 
 
 ---------------------------------------------------------------------
-:page_with_curl:**Hibridación de medios en Notion**:hammer_and_wrench:
+## 🖥️ Hibridación de medios en Notion
 
 
 Notion no se limita a combinar funcionalidades, sino que las reinventa al ofrecer una estructura basada en __bloques modulares__. Estos bloques actúan como "capas" que pueden contener texto, tablas, imágenes o bases de datos y que se pueden reorganizar libremente, creando un espacio de trabajo fluido y personalizado. Por ejemplo, en uno de mis proyectos de máster, utilicé Notion para construir una __base de datos__ de aplicaciones de IA, donde clasificaba cada herramienta según su tipo de uso, precio y funcionalidad. Este enfoque me permitió tener una __visión clara y adaptativa de la información__, algo que sería difícil de lograr con herramientas tradicionales.
@@ -80,7 +94,7 @@ Otra característica clave es la capacidad de crear __bases de datos enriquecida
 ![Imagen Notion 3](https://github.com/Monvima/PEC3-images/blob/main/Notion%203.JPG)
 
 ---------------------------------------------------------------------------------------------
-:globe_with_meridians:**Nuevas formas de representación y navegación**:globe_with_meridians:
+## 📊 Nuevas formas de representación y navegación
 
 
 Lo que realmente diferencia a Notion es cómo permite __navegar y representar información__ de formas que antes no eran posibles. La estructura jerárquica de páginas y subpáginas crea un entorno de exploración intuitivo, ideal para proyectos complejos. Por ejemplo, en la UOC organicé mis asignaturas en páginas individuales, cada una con secciones para notas, tareas pendientes y recursos clave. Esta organización me permitió acceder rápidamente a la información relevante sin perderme en documentos dispersos.
@@ -89,7 +103,7 @@ Esta __navegación adaptativa__ es un ejemplo claro de cómo Notion __redefine l
 
 
 ------------------------------------------------------------
-:earth_americas:**Impacto cultural y tecnológico**:computer:
+## 💡 Impacto cultural y tecnológico
 
 Desde el __punto de vista cultural__, Notion transforma al usuario en un creador activo de sistemas personalizados de conocimiento. Ya no dependemos de herramientas rígidas y fragmentadas, ahora podemos diseñar espacios que se adaptan a nuestra forma de pensar y trabajar. Esto empodera al usuario y refleja la evolución hacia una __cultura digital más participativa.__
 __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando y ampliando las capacidades de medios previos. Es una plataforma que no solo combina funcionalidades, sino que las __redefine__ al permitir interacciones y conexiones inéditas entre datos. Como afirma Manovich, esta es la esencia de la hibridación: __combinar lo mejor de varios medios para crear algo completamente nuevo__.
@@ -97,7 +111,7 @@ __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando 
 
 
 ------------------------------------------------------------
-### Referencias y Bibliografía
+# 📚 Referencias y Bibliografía
 
      
 - Contenidos formativos UOC.
