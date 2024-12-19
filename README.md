@@ -55,7 +55,7 @@ Explorar __WondaVR__ fue una experiencia sorprendente, ya que descubrí que no s
 En WondaVR, los medios tradicionales como el cine y la narrativa visual se integran con __nuevas tecnologías__, permitiendo al usuario interactuar con historias en un entorno tridimensional. Por ejemplo, durante mi exploración, pude explorar el Lower East Side de Nueva York a través de un recorrido virtual narrado, diseñado para que los estudiantes comprendieran los desafíos sociales y urbanos del área. Esta experiencia inmersiva no solo transmitía información, sino que transforma interacción con el contenido en algo completamente significativo. Es una estética visual innovadora que no existiría sin la __remezclabilidad profunda del software.__
 
 --------------------------------------------------------------------------------------------
-[Subir](#top)
+[Siguiente](#top)
 <a name="item4"></a>
 ### ✨ Nuevas formas de representación y navegación
 
