@@ -1,4 +1,4 @@
-## PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -28,7 +28,7 @@ __Fecha:__ 09/12/2024
 
 
 
-## 📖 Planteamiento
+# 📖 Planteamiento {#planteamiento}
 
 
 Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad profunda"__, donde los elementos de diferentes medios se combinan para dar lugar a nuevos __metamedios__. Este concepto nos invita a analizar herramientas como __Notion y WondaVR__, que no solo integran funcionalidades, sino que las transforman en experiencias completamente innovadoras.
@@ -39,7 +39,7 @@ Por otro lado, __WondaVR__ lleva la hibridación a un nivel inmersivo al combina
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
 
-## 📱 Re-descubriendo la hibridación con WondaVR
+# 📱 Re-descubriendo la hibridación con WondaVR
 
 
 ![Image wonda](https://github.com/Monvima/PEC3-images/blob/main/wonda.jfif)
@@ -74,7 +74,7 @@ En este sentido, WondaVR cumple perfectamente con esta definición, llevando la 
 
 
 
-# 🎧 Re-descubriendo la hibridación con Notion
+## 🎧 Re-descubriendo la hibridación con Notion
 
 
 
