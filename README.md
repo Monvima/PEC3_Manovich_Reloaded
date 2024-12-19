@@ -125,7 +125,7 @@ __En términos tecnológicos__, Notion actúa como un __metamedio__, integrando 
 
 Tanto Notion como WondaVR ejemplifican el concepto de __hibridación__ al superar la simple coexistencia de medios __(multimedia)__ y convertirse en herramientas que reconfiguran nuestra interacción con el conocimiento.
 Notion, al integrar bloques modulares que permiten personalización y adaptabilidad, redefine la gestión de la información y se posiciona como un __metamedio__ creando sistemas únicos y flexibles. Por su parte, WondaVR fusiona narrativa, interactividad y simulación inmersiva para ofrecer experiencias educativas transformadoras, como los recorridos virtuales o los entrenamientos simulados.
-Ambas herramientas reflejan la __remezclabilidad profunda__ que Manovich considera esencial en la era del software. Así, Notion y WondaVR no solo amplían lo que podemos hacer con el software, sino que transforman nuestra relación con la tecnología y la cultura.
+Ambas herramientas reflejan la __remezclabilidad profunda__ que Manovich considera esencial en la era del software. Así, Notion y WondaVR no solo amplían lo que __podemos hacer con el software__, sino que __transforman nuestra relación con la tecnología y la cultura__.
 
 
 ------------------------------------------------------------
