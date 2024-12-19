@@ -34,7 +34,7 @@ Lev Manovich plantea en su obra que estamos en una era de __"remezclabilidad pro
 
 En el caso de __Notion__, la "remezclabilidad" se manifiesta en su capacidad para unificar procesadores de texto, bases de datos y gestores de tareas en una estructura modular y personalizable. Esta herramienta se convierte en un metamedio que redefine la organización de la información y la interacción con los datos.
 
-Por otro lado, __WondaVR__ lleva la hibridación a un nivel inmersivo al combinar técnicas cinematográficas, interactividad de videojuegos y educación en realidad virtual. La plataforma no solo presenta contenido, sino que permite vivirlo, creando experiencias educativas que fusionan __medios tradicionales y virtuales__.
+Por otro lado, __WondaVR__ lleva la __hibridación__ a un nivel inmersivo al combinar técnicas cinematográficas, interactividad de videojuegos y educación en realidad virtual. La plataforma no solo presenta contenido, sino que permite vivirlo, creando experiencias educativas que fusionan __medios tradicionales y virtuales__.
 Ambas herramientas ejemplifican cómo la __remezclabilidad profunda__ puede generar nuevas formas de representación y navegación, alineándose con la visión de Manovich sobre la __evolución de los medios__ en la era del software.
 
 
